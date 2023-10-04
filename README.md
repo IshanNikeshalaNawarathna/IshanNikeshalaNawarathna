@@ -29,6 +29,7 @@
 <a href="https://linkedin.com/in/ishan nawarathna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishan nawarathna" height="30" width="40" /></a>
 <a href="https://fb.com/ishan nawarathna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ishan nawarathna" height="30" width="40" /></a>
 <a href="https://instagram.com/i_s_h_a_n_niki_99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_s_h_a_n_niki_99" height="30" width="40" /></a>
+  <a href="https://wa.me/767235819" target="blank"><img align="center" src="https://en.wikipedia.org/wiki/WhatsApp#/media/File:WhatsApp.svg" alt="ishan nawarathna" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
