@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [ishannikeshala.com](ishannikeshala.com)
 
-- 💬 Ask me about **PHP JavaScript**
+- 💬 Ask me about **PHP JavaScript JAVA**
 
 - 📫 How to reach me **ishannikeshala1999@gmail.com**
 
