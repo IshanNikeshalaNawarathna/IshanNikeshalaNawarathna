@@ -1,5 +1,5 @@
 
-<h1 align="start">Hi 👋, I'm Ishan Nikeshala Nawarathna</h1>
+<h1 align="start">Hi 👋, I'm Ishan Nikeshala Nawarathna </h1>
 
 
 <h5 align="start">"I like the responsibility of a team and contributing to the development of a company". My aim is to learn the new technology introduced to the world and use it daily and try to give something new to the world for the convenience of man. </h5>
