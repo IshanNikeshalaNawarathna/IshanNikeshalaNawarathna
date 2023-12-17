@@ -21,7 +21,7 @@
 
 
 <h3 align="start">Languages and Tools:</h3>
-  <img src="https://skillicons.dev/icons?i=git,docker,angular,arduino,bootstrap,cpp,css,figma,gcp,html,idea,java,js,jquery,mongodb,mysql,nodejs,php,py,react,tailwind,vscode,androidstudio,docker" />
+  <img src="https://skillicons.dev/icons?i=git,docker,angular,arduino,bootstrap,cpp,css,figma,gcp,html,idea,java,js,jquery,mongodb,mysql,nodejs,php,py,react,tailwind,vscode,androidstudio,flutter" />
 
 
 
