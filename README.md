@@ -6,7 +6,6 @@
 
 <p align="start"> <img src="https://komarev.com/ghpvc/?username=ishannikeshalanawarathna&label=Profile%20views&color=0e75b6&style=flat" alt="ishannikeshalanawarathna" /> </p>
 
-
 - 🔭 I’m currently working on **UI/UX Developer/Backend Developer**
 
 - 🌱 I’m currently learning **PHP,React-Native,JAVA,JavaScript,Angular,python,React**
@@ -18,7 +17,6 @@
 - 📫 How to reach me **ishannikeshala1999@gmail.com**
 
 - ⚡ Fun fact **coding Life**
-
 
 <h3 align="start">Languages and Tools:</h3>
   <img src="https://skillicons.dev/icons?i=git,docker,angular,arduino,bootstrap,cpp,css,figma,gcp,html,idea,java,js,jquery,mongodb,mysql,nodejs,php,py,react,tailwind,vscode,androidstudio,flutter,unity" />
