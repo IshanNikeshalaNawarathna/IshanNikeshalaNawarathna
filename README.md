@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **UI/UX Developer/Backend Developer**
 
-- 🌱 I’m currently learning **PHP,React-Native,JAVA,JavaScript,Angular,python,React**
+- 🌱 I’m currently learning **PHP, React-Native, JAVA, JavaScript, Angular, python, React**
 
 - 👨‍💻 All of my projects are available at [ishannikeshala.com](ishannikeshala.com)
 
