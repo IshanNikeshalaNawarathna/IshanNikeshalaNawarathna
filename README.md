@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **PHP, React-Native, JAVA, JavaScript, Angular, python, React**
 
-- 👨‍💻 All of my projects are available at [ishannikeshala.com](ishannikeshala.com)
+- 👨‍💻 All of my projects are available at [ishannikeshala.com](########)
 
 - 💬 Ask me about **PHP JavaScript JAVA**
 
