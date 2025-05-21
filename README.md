@@ -6,7 +6,7 @@
 <img src="https://skillicons.dev/icons?i=java,spring,kotlin,bootstrap,cpp,css,html,js,jquery,nodejs,php,react,tailwind" />
 
 <h3 align="start">Tools:</h3>
-<img src="https://skillicons.dev/icons?i=androidstudio,vscode,git,docker,github,arduino,figma,gcp,firebase,idea,mysql,devto,notion,stackoverflow,postman,vercel" />
+<img src="https://skillicons.dev/icons?i=androidstudio,vscode,git,docker,github,arduino,figma,gcp,firebase,idea,mysql,devto,notion,stackoverflow,postman,vercel,jenkins,aws" />
 
 <h3 align="start">Social Media:</h3>
 <img src="https://skillicons.dev/icons?i=linkedin,gmail,instagram,twitter" />
