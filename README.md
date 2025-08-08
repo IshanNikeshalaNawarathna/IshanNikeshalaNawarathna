@@ -1,6 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Ishan Nikeshala Nawarathna</h1>
-<h3 align="center">🚀 Full Stack Software Engineer | 💻 Tech Blogger | 📱 Mobile App Developer</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=450&lines=Full+Stack+Software+Engineer;Mobile+App+Developer" alt="Typing SVG" />
+</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ishannikeshalanawarathna&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
@@ -11,9 +13,9 @@
 
 - 🎓 Undergraduate Software Engineer  
 - 👨‍💻 Passionate about Full Stack Development, Mobile Apps, IoT & Clean Code  
-- ✍️ I write tech blogs on [Medium](https://medium.com/@ishannikeshalanawarathna) and [LinkedIn](https://linkedin.com/in/ishan-nikeshala-nawarathna)  
-- 🧠 Currently exploring **Microservices**, **CI/CD**, **Cloud Deployments**  
-- 🌱 Learning **Jetpack Compose**, **Kubernetes**, and **Clean Architecture**  
+- ✍️ I write tech blogs on [LinkedIn](https://www.linkedin.com/in/ishan-nikeshala-nawarathna-390a0b249/)  
+- 🧠 Currently exploring **Microservices**, **CI/CD** 
+- 🌱 Learning **Jenkins**, **Kubernetes**, **Docker**, **Angular** and **Clean Architecture**  
 - 🧑‍💻 Upcoming: Starting a Full Stack Engineer role next month  
 
 ---
@@ -34,6 +36,14 @@
 
 ## 📱 Featured Projects
 
+### 💬 DevWhiz - Blog Site  
+> Spring Boot application with MySQL and Angular  
+> `Tech: Java, MySQL, Angular, IntelliJ IDEA`
+
+### 💸 EZBank - Banking Application  
+> J2EE application with MySQL and Hibernate  
+> `Tech: Java, MySQL, HTML, CSS, JSTL, IntelliJ IDEA`
+
 ### 🎟️ Evenro - Event Ticket Booking App  
 > Android app with Firebase, SQLite, and PayHere integration  
 > `Tech: Java, Firebase, SQLite, Android Studio`
@@ -48,15 +58,15 @@
 
 ### 🛒 Shopping Hall - E-commerce Web App  
 > Java-based e-commerce solution with PayHere payment  
-> `Tech: Java, MySQL, Hibernate, HTML, CSS, JS`
+> `Tech: php, MySQL, HTML, CSS, JS`
+
 
 ---
 
 ## 📝 Blog Highlights
 
-- [Mastering Firebase Authentication](https://medium.com/@ishannikeshalanawarathna)
-- [CI/CD Pipeline with Jenkins for Beginners](https://linkedin.com/in/ishan-nikeshala-nawarathna)
-- [Clean Architecture in Android Explained Simply](#)
+- [Object-Oriented Design Patterns](https://www.linkedin.com/feed/update/urn:li:activity:7225666567802380290/)
+- [OOP Concept](https://www.linkedin.com/in/ishan-nikeshala-nawarathna-390a0b249/details/featured/)
 
 ---
 
