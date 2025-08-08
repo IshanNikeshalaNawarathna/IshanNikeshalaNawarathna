@@ -34,7 +34,7 @@
 
 ---
 
-## 📱 Featured Projects
+## 📱 My Projects
 
 ### 💬 DevWhiz - Blog Site  
 > Spring Boot application with MySQL and Angular  
