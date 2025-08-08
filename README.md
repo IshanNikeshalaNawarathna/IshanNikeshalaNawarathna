@@ -24,7 +24,7 @@
 
 ### 🖥️ Languages & Frameworks:
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,kotlin,cpp,php,js,ts,nodejs,react,reactnative,html,css,tailwind,bootstrap,jquery" />
+  <img src="https://skillicons.dev/icons?i=java,spring,kotlin,cpp,php,js,ts,nodejs,react,html,css,tailwind,bootstrap,jquery" />
 </p>
 
 ### 🧰 Tools & Platforms:
