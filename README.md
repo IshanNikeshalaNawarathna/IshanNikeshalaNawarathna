@@ -44,28 +44,34 @@
 > J2EE application with MySQL, Hibernate and microservices architecture  
 > `Tech: Java, MySQL, HTML, CSS, JSTL, IntelliJ IDEA`
 
-### 💸 BidMart - Auction systems  
-> J2EE application with Microservices Architecture   
+### 💸 BidMart - Auction System  
+> J2EE application with Microservices Architecture  
 > `Tech: Java, HTML, CSS, JSTL, IntelliJ IDEA`
 
 ### 🎟️ Evenro - Event Ticket Booking App  
-> Android app with Firebase, SQLite, and PayHere integration  
+> Android app with Firebase, SQLite, Google Map, Push Notification and PayHere integration  
+> `Tech: Java, Firebase, SQLite, Android Studio`
+
+### 🎟️ Evenro-Workers - Event Ticket Booking Admin App  
+> Android app with Firebase, SQLite  
 > `Tech: Java, Firebase, SQLite, Android Studio`
 
 ### 💬 ChatApp - Real-time Messaging App  
 > Built with React Native & Java EE 7 with WebSocket  
 > `Tech: React Native, Java EE, MySQL, Hibernate`
 
-### 🏥 Hospital Management System  
+### 🎓 Adyapana Institute - LMS  
+> Learning Management System for educational institutions (Desktop App)  
+> `Tech: Java Swing, MySQL`
+
+### 🏥 VitalCare - Hospital Management System  
 > Desktop app for hospital operations  
 > `Tech: Java Swing, MySQL`
 
 ### 🛒 Shopping Hall - E-commerce Web App  
 > Java-based e-commerce solution with PayHere payment  
-> `Tech: php, MySQL, HTML, CSS, JS`
+> `Tech: PHP, MySQL, HTML, CSS, JS`
 
-
----
 
 ## 📝 Blog Highlights
 
