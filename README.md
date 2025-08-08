@@ -41,8 +41,12 @@
 > `Tech: Java, MySQL, Angular, IntelliJ IDEA`
 
 ### 💸 EZBank - Banking Application  
-> J2EE application with MySQL and Hibernate  
+> J2EE application with MySQL, Hibernate and microservices architecture  
 > `Tech: Java, MySQL, HTML, CSS, JSTL, IntelliJ IDEA`
+
+### 💸 BidMart - Auction systems  
+> J2EE application with Microservices Architecture   
+> `Tech: Java, HTML, CSS, JSTL, IntelliJ IDEA`
 
 ### 🎟️ Evenro - Event Ticket Booking App  
 > Android app with Firebase, SQLite, and PayHere integration  
