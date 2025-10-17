@@ -29,7 +29,7 @@
 
 ### 🧰 Tools & Platforms:
 <p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,git,docker,github,jenkins,arduino,figma,firebase,idea,mysql,postman,vercel,gcp,aws,notion,stackoverflow,devto" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,git,docker,github,gitlab,jenkins,arduino,figma,firebase,idea,mysql,postman,vercel,gcp,aws,notion,stackoverflow,devto" />
 </p>
 
 ---
