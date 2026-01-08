@@ -36,6 +36,10 @@
 
 ## 📱 My Projects
 
+### 🧰 Project Management (SAAS) - Ongoing Group Project 
+> Spring Boot application with React  
+> `Tech: Java, MySQL, React, Docker, Nginx, Hibernate, GitHub Action, Junit, IntelliJ IDEA`
+
 ### 💬 DevWhiz - Blog Site  
 > Spring Boot application with MySQL and Angular  
 > `Tech: Java, MySQL, Angular, IntelliJ IDEA`
