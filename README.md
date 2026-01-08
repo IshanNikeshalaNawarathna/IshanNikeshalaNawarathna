@@ -36,6 +36,10 @@
 
 ## 📱 My Projects
 
+### 👨‍💻 Complaint Managemnt - Ongoing  
+> Spring Boot application with Microservices  
+> `Tech: Java, MySQL, Docker, Nginx, Hibernate, GitHub Action, Junit, Kafka, Eureka server, Security, IntelliJ IDEA`
+
 ### 🧰 Project Management (SAAS) - Ongoing Group Project 
 > Spring Boot application with React  
 > `Tech: Java, MySQL, React, Docker, Nginx, Hibernate, GitHub Action, Junit, IntelliJ IDEA`
